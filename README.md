@@ -112,12 +112,12 @@ Screenshots were taken with the snipping tool.
 
 ## Key Insights:
 
-pH - Fully Compliant. All 500 samples fall within WHO range 6.5–8.5 (mean = 7.16), confirming stable treatment chemistry.
-Dissolved Oxygen (DO) - Strong. Mean DO saturation of 92.1% exceeds the 80% aquatic life threshold, reflecting adequate aeration.
-Turbidity - Near-Limit Risk. Mean turbidity of 4.17 NTU sits close to the 5 NTU WHO ceiling. One sample (0.2%) already breached it. Turbidity Reduction averaged only 58.3%, well below the 80% engineering target.
-Overall Compliance: 99.8%. Only 1 of 500 samples failed, solely due to turbidity exceedance.
-Water Quality Index (WQI) - Moderate at 65.1/100. The composite score falls below the 75-point "Good" threshold, driven by turbidity performance and conductivity variability (316–370 µS/cm).
-Conductivity Variability. A spread of 54 µS/cm across samples indicates minor mineralisation fluctuation, manageable but worth monitoring.
+* pH - Fully Compliant. All 500 samples fall within WHO range 6.5–8.5 (mean = 7.16), confirming stable treatment chemistry.
+* Dissolved Oxygen (DO) - Strong. Mean DO saturation of 92.1% exceeds the 80% aquatic life threshold, reflecting adequate aeration.
+* Turbidity - Near-Limit Risk. Mean turbidity of 4.17 NTU sits close to the 5 NTU WHO ceiling. One sample (0.2%) already breached it. Turbidity Reduction averaged only 58.3%, well below the 80% engineering target.
+* Overall Compliance: 99.8%. Only 1 of 500 samples failed, solely due to turbidity exceedance.
+* Water Quality Index (WQI) - Moderate at 65.1/100. The composite score falls below the 75-point "Good" threshold, driven by turbidity performance and conductivity variability (316–370 µS/cm).
+* Conductivity Variability. A spread of 54 µS/cm across samples indicates minor mineralisation fluctuation, manageable but worth monitoring.
 
 
 ## Conclusion:
@@ -126,15 +126,15 @@ The dataset demonstrates near-full WHO compliance on pH and dissolved oxygen. Ho
 
 ## Recommendations:
 
-Optimize Coagulation/Flocculation: Adjust alum or polymer dosing to drive turbidity reduction above 80%.
+* Optimize Coagulation/Flocculation: Adjust alum or polymer dosing to drive turbidity reduction above 80%.
 
-Set an Early-Warning Turbidity Threshold: Trigger corrective action at 4.5 NTU, not at the 5 NTU limit.
+* Set an Early-Warning Turbidity Threshold: Trigger corrective action at 4.5 NTU, not at the 5 NTU limit.
 
-Monitor Conductivity Trends: Introduce monthly reporting to catch mineralisation drift early.
+* Monitor Conductivity Trends: Introduce monthly reporting to catch mineralisation drift early.
 
-Adopt WQI as an Operational Metric: Target WQI > 75 as the standard operational benchmark.
+* Adopt WQI as an Operational Metric: Target WQI > 75 as the standard operational benchmark.
 
-Expand Future Dataset Scope: Incorporate Biological Oxygen Demand (BOD), Chemical Oxygen Demand (COD), and heavy metals for a more comprehensive treatment performance study.
+* Expand Future Dataset Scope: Incorporate Biological Oxygen Demand (BOD), Chemical Oxygen Demand (COD), and heavy metals for a more comprehensive treatment performance study.
 
 
 Thank you for your time.
