@@ -40,12 +40,12 @@ Records: 500 samples | Features: 6 parameters
 > Storage Format - CSV
 
 > Column | Unit | Description:
->> Sample ID | — | Unique sample identifier
->> pH | — | Acidity / alkalinity level
->> Temperature | °C | Water temperature
->> Turbidity | NTU | Suspended particle load
->> Dissolved Oxygen | mg/L| Oxygen available for aquatic life
->> Conductivity | µS/cm | Ionic concentration proxy
+>> 1. Sample ID | — | Unique sample identifier
+>> 2.  pH | — | Acidity / alkalinity level
+>> 3.  Temperature | °C | Water temperature
+>> 4.  Turbidity | NTU | Suspended particle load
+>> 5.  Dissolved Oxygen | mg/L| Oxygen available for aquatic life
+>> 6.  Conductivity | µS/cm | Ionic concentration proxy
 
 Data Quality: No null values detected. One sample exceeded the 5 Nephelometric Turbidity Unit (NTU) limit. No duplicates found.
 
