@@ -38,6 +38,8 @@ Records: 500 samples | Features: 6 parameters
 
 Kaggle Raw Dataset: [Visit Dataset](https://github.com/PromiseCPU/Physico-Chemical-Water-Quality-Treatment-Analytics/blob/6cf135d72c86fb935b51f12311dcfaba5dda4072/1.%20Water%20Quality%20Testing.csv)
 
+Restructured Raw Dataset: [Visit Dataset](https://github.com/PromiseCPU/Physico-Chemical-Water-Quality-Treatment-Analytics/blob/48960b973ddfb8f46cae185870f302c132db46ae/2.%20water_quality_testing_clean_011329.csv)
+
 ### Data Summary:
 > Storage Format - CSV
 
