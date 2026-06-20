@@ -103,6 +103,8 @@ All result tables feed directly into Power BI for dashboard creation.
 I imported the KPI result tables exported from the KPI calculations section of MySQL code directly into Power BI.
 Screenshots were taken with the snipping tool.
 
+![image alt] (https://github.com/PromiseCPU/Physico-Chemical-Water-Quality-Treatment-Analytics/blob/bfaf07b860e681cda0ea4fd3ae76acacacf5ef26/b2_122939.png)
+
 
 ## Key Insights:
 
