@@ -36,6 +36,8 @@ Interactive dashboard and compliance visualisation
 Source: Kaggle - Water Quality Testing.csv
 Records: 500 samples | Features: 6 parameters
 
+Kaggle Raw Dataset: [Visit Dataset](https://github.com/PromiseCPU/Physico-Chemical-Water-Quality-Treatment-Analytics/blob/6cf135d72c86fb935b51f12311dcfaba5dda4072/1.%20Water%20Quality%20Testing.csv)
+
 ### Data Summary:
 > Storage Format - CSV
 
